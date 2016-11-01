@@ -6,7 +6,7 @@ import java.math.BigInteger;
 
 /**
  * Interface com o contrato de um bean.
- * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt>
+ * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt> - <tt>daniel.afmenezes@gmail.com</tt>
  */
 public interface CommonBean extends Serializable {
 	

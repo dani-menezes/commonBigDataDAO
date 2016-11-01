@@ -5,7 +5,7 @@ import java.math.BigInteger;
 
 /**
  * Implementa as funções básicas de um bean.
- * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt>
+ * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt> - <tt>daniel.afmenezes@gmail.com</tt>
  */
 public abstract class AbstractCommonBean implements CommonBean, Serializable {
 

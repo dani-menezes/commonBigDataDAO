@@ -2,7 +2,7 @@ package com.architecture.bigdata.exception;
 
 /**
  * Construtor generico.
- * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt>
+ * @author daniel.menezes - <tt>daniel.afmenezes@gmail.com</tt> - <tt>daniel.afmenezes@gmail.com</tt>
  */
 public class CommonException extends Exception {
 
